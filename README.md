@@ -20,7 +20,7 @@ Información sobre las elecciones en México
 
 ###Colima 
 
-Gobernatura
+**Gobernatura**
 - PAN C. Jorge Luis Preciado Rodriguez
 - PRI C. José Ignacio Peralta Sanches
 
