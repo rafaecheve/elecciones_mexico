@@ -28,7 +28,7 @@ Información sobre las elecciones en México
 - C. Leoncio Alfonso Morán Sánchez Movimiento Ciudadano 
 - C. José Francisco Gallardo Rodríguez Morena 
 - C. Gerardo Galván Pinto Encuentro Social 
-- C. Carlos Barbazán Martínez [Partido Humanista]
+- C. Carlos Barbazán Martínez Partido Humanista
 
 ###Distrito Federal 
 
