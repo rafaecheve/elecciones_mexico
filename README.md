@@ -78,3 +78,8 @@ Información sobre las elecciones en México
 
 ###Zacatecas
 
+## Herramientas
+
+- [Candidato transparente](http://candidatotransparente.mx/#/faqs)
+
+
