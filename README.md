@@ -21,14 +21,14 @@ Información sobre las elecciones en México
 ###Colima 
 
 **Gobernatura**
-- PAN C. Jorge Luis Preciado Rodriguez
-- PRI C. José Ignacio Peralta Sanches
-- PRD C. Martha María Zepeda del Toro
-- PT C. David Munro González
-- Movimiento Ciudadano C. Leoncio Alfonso Morán Sánchez
-- Morena C. José Francisco Gallardo Rodríguez
-- Encuentro Social C. Gerardo Galván Pinto
-- Partido Humanista C. Carlos Barbazán Martínez
+- C. Jorge Luis Preciado Rodriguez PAN
+- C. José Ignacio Peralta Sanches PRI 
+- C. Martha María Zepeda del Toro PRD 
+- C. David Munro González PT 
+- C. Leoncio Alfonso Morán Sánchez Movimiento Ciudadano 
+- C. José Francisco Gallardo Rodríguez Morena 
+- C. Gerardo Galván Pinto Encuentro Social 
+- C. Carlos Barbazán Martínez [Partido Humanista]
 
 ###Distrito Federal 
 
