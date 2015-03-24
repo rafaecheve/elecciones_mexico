@@ -20,6 +20,10 @@ Información sobre las elecciones en México
 
 ###Colima 
 
+Gobernatura
+- PAN C. Jorge Luis Preciado Rodriguez
+- PRI C. José Ignacio Peralta Sanches
+
 ###Distrito Federal 
 
 ###Durango 
