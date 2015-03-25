@@ -6,9 +6,39 @@ Información sobre las elecciones en México
 
 ###Aguascalientes 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Baja California Norte 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Baja California Sur 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Campeche 
 
@@ -25,9 +55,39 @@ Información sobre las elecciones en México
 
 ###Chiapas 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Chihuahua 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Coahuila 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Colima 
 
@@ -43,51 +103,291 @@ Información sobre las elecciones en México
 
 ###Distrito Federal 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Durango 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Estado de México 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Guerrero 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Guanajuato 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Hidalgo 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Jalisco 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Morelia 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Morelos 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Nayarit 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Nuevo Leon 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Oaxaca 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Puebla 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Queretaro 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Quintana Roo 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###San Luis Potosi 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Sinaloa 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Sonora 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Tabasco 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Tamaulipas 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Tlaxcala 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Veracruz 
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ###Yucatan 
 
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
+
 ###Zacatecas
+
+**Gobernatura**
+- C.  [PAN](http://pan.org.mx)
+- C.  [PRI](http://pri.org.mx/) 
+- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C.  [Morena](http://www.morena.org)
+- C.  [Encuentro Social](http://encuentro.social)
+- C.  [Partido Humanista](http://soyhumanista.mx/)
 
 ## Herramientas
 
