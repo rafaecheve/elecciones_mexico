@@ -285,14 +285,13 @@ Información sobre las elecciones en México
 ###San Luis Potosi 
 
 **Gobernatura**
-- C.  [PAN](http://pan.org.mx)
-- C.  [PRI](http://pri.org.mx/) 
-- C.  [PRD](http://www.prd.org.mx) 
-- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
-- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
-- C.  [Morena](http://www.morena.org)
-- C.  [Encuentro Social](http://encuentro.social)
-- C.  [Partido Humanista](http://soyhumanista.mx/)
+- C. Sonia Mendoza Díaz [PAN](http://pan.org.mx)
+- C. Juan Manuel Carreras López [PRI](http://pri.org.mx/) 
+- C. Fernando Peréz Espinosa [PRD](http://www.prd.org.mx) 
+- C. Eugenio Govea Arcos [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C. Sergio Serrano Soriano [Morena](http://www.morena.org)
+- C. Arturo Arriaga Macías [Encuentro Social](http://encuentro.social)
+- C. Aniceto Becerrra Dueñas [Partido Humanista](http://soyhumanista.mx/)
 
 ###Sinaloa 
 
