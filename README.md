@@ -103,10 +103,44 @@ Información sobre las elecciones en México
 
 ###Distrito Federal 
 
-**Gobernatura**
+**Jefes delegacionales**
 - C.  [PAN](http://pan.org.mx)
+
+	- Miguel Hidalgo, Bertha Xóchitl Gálvez Ruiz
+	- Coyoacán, Silvia Esther Pérez Ceballos
+	- Cuajimalpa, Camilo Campos López
+	- Magdalena Contreras, Tania María Borbolla Galván
+	- Iztacalco, Verónica Lemus Cocoletzi
+	- Venustiano Carranza, Lilián López de Nava Rodríguez
+	- Iztapalapa, Brisa Abril Ortiz Márquez
+  	- Milpa Alta, Miriam Bastida Bastida
+ 	- Xohimilco, Norma Araceli Figueroa Galindo
+ 	- Álvaro obregón, Teodoro Mario Alonso Paniagua
+	- Azcapotzalco, Jorge Palacios Arroyo
+	- Benito Juárez, Christian von Reich de la Isla
+	- Cuauhtémoc, Alexander Flores Montesinos
+	- Gustavo A. Madero, Tito Omar Pacheco López
+	- Tláhuac, Marco Antonio Ramírez Vásquez
+	- Tlalpan, José Antonio Patino Pastrana
+
 - C.  [PRI](http://pri.org.mx/) 
 - C.  [PRD](http://www.prd.org.mx) 
+
+	- Azcapotzalco, Antonio Padierna
+	- Benito Juárez, Dinorah Pizano
+	- Coyoacán, Valentín Maldonado
+	- Cuajimalpa, Luis Cházaro
+	- Cuauhtémoc, José Luis Muñoz 
+	- GAM, Víctor Hugo Lobo
+	- Iztacalco, Carlos Estrada
+	- Iztapalapa, Dioni Anguianao
+	- Magdalena Contreras, Beatriz Garza
+	- Miguel Hidalgo, David Razú
+	- Milpa Alta, Carmen Antuna
+ 	- Tláhuac, Maricela Alamilla
+	- Venustiano Carranza, Israel Moreno
+	- Xochimilco, Ana Julia Hernández
+
 - C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
 - C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
 - C.  [Morena](http://www.morena.org)
