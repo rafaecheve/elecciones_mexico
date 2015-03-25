@@ -12,6 +12,17 @@ Información sobre las elecciones en México
 
 ###Campeche 
 
+**Gobernatura**
+- C. Jorge Rosiñol Abreu [PAN](http://pan.org.mx)
+- C. Rafael Alejandro Moreno Cárdenas [PRI](http://pri.org.mx/) 
+- C. Fernando Dante Imperiale [PRD](http://www.prd.org.mx) 
+- C. José Luis Góngora Ramírez [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C. José Angelino Caamal Mena [PANAL](https://nueva-alianza.org.mx)
+- C. Layda Elena Sansores San Román [Morena](http://www.morena.org)
+- C. Roger Ortegón García [Encuentro Social](http://encuentro.social)
+- C. Olimpia Álvarez Casanova [Partido Humanista](http://soyhumanista.mx/)
+- C. Luis Antonio Che Cu Independiente
+
 ###Chiapas 
 
 ###Chihuahua 
