@@ -226,14 +226,13 @@ Información sobre las elecciones en México
 ###Nuevo Leon 
 
 **Gobernatura**
-- C.  [PAN](http://pan.org.mx)
-- C.  [PRI](http://pri.org.mx/) 
-- C.  [PRD](http://www.prd.org.mx) 
-- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
-- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
-- C.  [Morena](http://www.morena.org)
-- C.  [Encuentro Social](http://encuentro.social)
-- C.  [Partido Humanista](http://soyhumanista.mx/)
+- C. Felipe De Jesús Cantú Rodríguez [PAN](http://pan.org.mx)
+- C. Ivonne Álvarez García [PRI](http://pri.org.mx/) 
+- C. Humberto González Sesma [PRD](http://www.prd.org.mx) 
+- C. Fernando Elizondo Barragán[Movimiento Ciudadano](http://movimientociudadano.mx)
+- C. Rogelio González Ramírez [Morena](http://www.morena.org)
+- C. Jesus María Elizondo González [Partido Humanista](http://soyhumanista.mx/)
+- C. Jaime Rodríguez Calderón Independiente
 
 ###Oaxaca 
 
