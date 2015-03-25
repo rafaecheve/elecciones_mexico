@@ -147,7 +147,7 @@ Información sobre las elecciones en México
 - C. Karime Iyari Sevilla Álvarez [PANAL](https://nueva-alianza.org.mx)
 - C. Pablo Amílcar Sandoval Ballesteros [Morena](http://www.morena.org)
 - C. Alberto López Rosas [Partido Humanista](http://soyhumanista.mx/)
-- C. Godeleva Rodríguez Salmeron [Partido de los Pobres de Guerrero]() 
+- C. Godeleva Rodríguez Salmeron [Partido de los Pobres de Guerrero](#) 
 - C. Raymundo Nogueda Analco [Encuentro Social](http://encuentro.social)
 
 
