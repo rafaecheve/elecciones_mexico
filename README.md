@@ -391,5 +391,6 @@ Información sobre las elecciones en México
 ## Herramientas
 
 - [Candidato transparente](http://candidatotransparente.mx/#/faqs)
+- [Elecciones estatales de México Wikipedia](http://es.wikipedia.org/wiki/Elecciones_estatales_de_México)
 
 
