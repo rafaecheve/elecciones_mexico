@@ -308,14 +308,13 @@ Información sobre las elecciones en México
 ###Sonora 
 
 **Gobernatura**
-- C.  [PAN](http://pan.org.mx)
-- C.  [PRI](http://pri.org.mx/) 
-- C.  [PRD](http://www.prd.org.mx) 
-- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
-- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
-- C.  [Morena](http://www.morena.org)
-- C.  [Encuentro Social](http://encuentro.social)
-- C.  [Partido Humanista](http://soyhumanista.mx/)
+- C. Javier Gándara Magaña [PAN](http://pan.org.mx)
+- C. Claudia Pavlovich Arellano [PRI](http://pri.org.mx/) 
+- C. Carlos Navarro López [PRD](http://www.prd.org.mx) 
+- C. Jaime Moreno Berry [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
+- C. Javier Lamarque Cano [Morena](http://www.morena.org)
+- C. Manuel Baldenebro Arredondo [Encuentro Social](http://encuentro.social)
+- C. Antonio Pérez Yescas [Partido Humanista](http://soyhumanista.mx/)
 
 ###Tabasco 
 
