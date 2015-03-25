@@ -140,14 +140,16 @@ Información sobre las elecciones en México
 ###Guerrero 
 
 **Gobernatura**
-- C.  [PAN](http://pan.org.mx)
-- C.  [PRI](http://pri.org.mx/) 
-- C.  [PRD](http://www.prd.org.mx) 
-- C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
-- C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
-- C.  [Morena](http://www.morena.org)
-- C.  [Encuentro Social](http://encuentro.social)
-- C.  [Partido Humanista](http://soyhumanista.mx/)
+- C. Jorge Camacho Peñaloza [PAN](http://pan.org.mx)
+- C. Héctor Astudillo Flores [PRI](http://pri.org.mx/) 
+- C. Beatriz Mojica Morga [PRD](http://www.prd.org.mx) 
+- C. Luis Walton Aburto [Movimiento Ciudadano](http://movimientociudadano.mx)
+- C. Karime Iyari Sevilla Álvarez [PANAL](https://nueva-alianza.org.mx)
+- C. Pablo Amílcar Sandoval Ballesteros [Morena](http://www.morena.org)
+- C. Alberto López Rosas [Partido Humanista](http://soyhumanista.mx/)
+- C. Godeleva Rodríguez Salmeron [Partido de los Pobres de Guerrero]() 
+- C. Raymundo Nogueda Analco [Encuentro Social](http://encuentro.social)
+
 
 ###Guanajuato 
 
