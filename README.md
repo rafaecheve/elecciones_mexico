@@ -31,8 +31,8 @@ Información sobre las elecciones en México
 ###Baja California Sur 
 
 **Gobernatura**
-- C.  [PAN](http://pan.org.mx)
-- C.  [PRI](http://pri.org.mx/) 
+- C. Carlos Mendoza Davis [PAN](http://pan.org.mx)
+- C. Ricardo Barroso Agramont [PRI](http://pri.org.mx/) 
 - C.  [PRD](http://www.prd.org.mx) 
 - C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
 - C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
