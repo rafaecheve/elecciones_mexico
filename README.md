@@ -445,7 +445,7 @@ Información sobre las elecciones en México
 - [Elecciones estatales de México Wikipedia](http://es.wikipedia.org/wiki/Elecciones_estatales_de_México)
 
 ## Noticias
--[El PRI sufre tercera desbandada: unos 2,000 militantes se van al PAN](http://www.cnnmexico.com/adnpolitico/2015/03/26/el-pri-sufre-tercera-desbandada-unos-2000-militantes-se-van-al-pan)
+- [El PRI sufre tercera desbandada: unos 2,000 militantes se van al PAN](http://www.cnnmexico.com/adnpolitico/2015/03/26/el-pri-sufre-tercera-desbandada-unos-2000-militantes-se-van-al-pan)
 
 ## Editando
 
