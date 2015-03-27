@@ -124,7 +124,7 @@ Información sobre las elecciones en México
 	- Tlalpan, José Antonio Patino Pastrana
 
 - C.  [PRI](http://pri.org.mx/) 
-- C.  [PRD](http://www.prd.org.mx) 
+- C.  [PRD](http://www.prd.org.mx) alianza con [PANAL](https://nueva-alianza.org.mx)
 
 	- Azcapotzalco, Antonio Padierna
 	- Benito Juárez, Dinorah Pizano
@@ -144,6 +144,23 @@ Información sobre las elecciones en México
 - C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
 - C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
 - C.  [Morena](http://www.morena.org)
+
+	- Cuauhtémoc, Ricardo Monreal
+	- Tlalpan, Claudia Sheinbaum
+	- Álvaro Obregón, Martha Pérez Bejarano
+	- Azcapotzalco, Pablo Moctezuma Barragán
+	- Benito Juárez, Jesús González Schmal
+	- Coyoacán, Bertha Luján Uranga
+	- Iztacalco, José de Jesús Martín del Campo
+	- Iztapalapa, Clara Brugada Molina
+	- Gustavo A. Madero, Ramón Jiménez López
+	- Cuajimalpa, Jenny Saltiel
+	- Magdalena Contreras, Patricia Ortíz Couturier
+	- Milpa Alta, María Guadalupe Chavira de la Rosa
+	- Tláhuac, Rigoberto Salgado Vázquez
+	- Venustiano Carranza, Martha Ruíz Anchondo
+	- Xochimilco, Avelino Méndez Rangel
+
 - C.  [Encuentro Social](http://encuentro.social)
 - C.  [Partido Humanista](http://soyhumanista.mx/)
 
