@@ -33,10 +33,10 @@ Información sobre las elecciones en México
 **Gobernatura**
 - C. Carlos Mendoza Davis [PAN](http://pan.org.mx)
 - C. Ricardo Barroso Agramont [PRI](http://pri.org.mx/) 
-- C.  [PRD](http://www.prd.org.mx) 
+- C. Jesús Druk González [PRD](http://www.prd.org.mx) 
 - C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
 - C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
-- C.  [Morena](http://www.morena.org)
+- C. Víctor Manuel Castro Cosío [Morena](http://www.morena.org)
 - C.  [Encuentro Social](http://encuentro.social)
 - C.  [Partido Humanista](http://soyhumanista.mx/)
 
@@ -238,12 +238,12 @@ Información sobre las elecciones en México
 - C.  [Encuentro Social](http://encuentro.social)
 - C.  [Partido Humanista](http://soyhumanista.mx/)
 
-###Morelia 
+###Michoacan 
 
 **Gobernatura**
-- C.  [PAN](http://pan.org.mx)
-- C.  [PRI](http://pri.org.mx/) 
-- C.  [PRD](http://www.prd.org.mx) 
+- C. Luisa María Calderón Hinojosa [PAN](http://pan.org.mx)
+- C. Ascensión Orihuela Bárcenas [PRI](http://pri.org.mx/) 
+- C. Silvano Aureoles Conejo [PRD](http://www.prd.org.mx) 
 - C.  [PT](http://www.partidodeltrabajo.org.mx/2011/index.php)
 - C.  [Movimiento Ciudadano](http://movimientociudadano.mx)
 - C.  [Morena](http://www.morena.org)
