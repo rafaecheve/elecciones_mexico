@@ -1,6 +1,9 @@
 # Elecciones en México
 
-Información sobre las elecciones en México
+Información sobre las elecciones en México 
+
+Acumulado a 3 dias de la Elección 
+- [CANDIDATOS 2015 PARA DIPUTADOS FEDERALES Y GOBERNADORES](http://www.infoeleccionesmexico.com/lista-candidatos-mexico.php)
 
 ## 2015
 
